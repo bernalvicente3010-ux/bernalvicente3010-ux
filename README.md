@@ -1,4 +1,4 @@
-# ¡Hola, soy Vicente Bernal! 👋
+# Hola, soy Vicente Bernal
 
 **Estudiante de Técnico Universitario en Informática (UTFSM) | Técnico en Electrónica**
 
