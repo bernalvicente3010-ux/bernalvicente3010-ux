@@ -2,8 +2,6 @@
 
 **Estudiante de Técnico Universitario en Informática (UTFSM) | Técnico en Electrónica**
 
-Me especializo en la intersección entre el hardware y el software: desde el diagnóstico de placas lógicas y microsoldadura hasta el desarrollo de software y gestión de bases de datos.
-
 ---
 
 ### 🛠️ Tecnologías & Herramientas
